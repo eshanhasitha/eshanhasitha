@@ -26,19 +26,17 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **React, React Native, Nodejs,**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've been interest in front end development. So,I'm learning **UI/UX**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 💬 Ask me about **react, react-native, nodejs**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 📫 Feel free to reach me out on WhatsApp - [Eshan](https://wa.me/+94774506950) 
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord - [eshanhasitha]([https://discordapp.com/users/957722095381540874](https://discordapp.com/users/1109302006654451784)) my username!
 <!--Intro end-->
 
 

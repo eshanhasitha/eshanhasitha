@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, React Native, Nodejs,**
+- 🔭 I’m currently working on **React, React Native, Nodejs**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
@@ -36,7 +36,7 @@
 
 - 📫 Feel free to reach me out on WhatsApp - [Eshan](https://wa.me/+94774506950) 
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord - [eshanhasitha]([https://discordapp.com/users/957722095381540874](https://discordapp.com/users/1109302006654451784)) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord - [eshanhasitha](https://discordapp.com/users/1109302006654451784)
 <!--Intro end-->
 
 
@@ -84,7 +84,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,firebase,github,html,java,js,md,mysql,nodejs,py,react,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,md,mysql,nodejs,py,react,tailwind,vscode&perline=14" />
   </a>
 </p>
 

@@ -110,7 +110,8 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+
+<br><p align="center"> <img src="https://komarev.com/ghpvc/?username=eshanhasitha&label=Profile%20views&color=0e75b6&style=flat" alt="indubrolk" /> </p>
   
 </div>
 

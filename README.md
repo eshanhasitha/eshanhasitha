@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've been interest in front end development. So,I'm learning **React**
+- ☁️ I've been interest in **front end development.**
 
 - 💬 Ask me about **react, react-native, nodejs**
 
